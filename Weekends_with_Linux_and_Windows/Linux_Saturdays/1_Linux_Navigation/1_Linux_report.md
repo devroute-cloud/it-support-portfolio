@@ -1,7 +1,7 @@
-## Topics
-pwd
-ls
-cd
+## Topics 📚
+- pwd
+- ls
+- cd
 
 
 ### What I Learned
