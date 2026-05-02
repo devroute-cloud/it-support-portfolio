@@ -2,23 +2,23 @@
 
 
 ### Linux Navigation
--pwd
--ls
--cd
+- pwd
+- ls
+- cd
 
 
 ### Linux File Operations
--mkdir
--cp
--mv
--rm
--touch
+- mkdir
+- cp
+- mv
+- rm
+- touch
 
 
 ### Linux Search Tools
--find
--grep
--locate
+- find
+- grep
+- locate
 
 
 ### Linux Permissions
