@@ -16,13 +16,13 @@
 - cd = This command has the go one level up
 
 ### Practices
-## Pwd:
+#### Pwd:
 <img width="175" height="131" alt="image" src="https://github.com/user-attachments/assets/4b08f25e-874e-4d01-8b7a-bae35ea8d91c" />
 
-## Ls: 
+#### Ls: 
 <img width="421" height="100" alt="image" src="https://github.com/user-attachments/assets/3df9fe8f-7684-409a-a4ed-a115ec166083" />
 
-## Cd: 
+#### Cd: 
 <img width="189" height="55" alt="image" src="https://github.com/user-attachments/assets/43f0ac73-562a-4c78-a175-c058c5f06a10" />
 
 
