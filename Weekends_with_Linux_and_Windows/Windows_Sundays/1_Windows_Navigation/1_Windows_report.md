@@ -1,7 +1,7 @@
 ## Topics 📚
-- dir o *Ls* (Abbreviation of the name of the native CMDLET Get-Children)
-- cd o *chdir*(Change Directory)
-- Get-Location o *gl, pwd* (This command is equivalent to Print Working Directory)
+- dir o *Ls*, (Abbreviation of the name of the native CMDLET Get-Children)
+- cd o *chdir*, (Change Directory)
+- Get-Location o *gl, pwd*, (This command is equivalent to Print Working Directory)
 
 
 ### What I Learned
@@ -10,9 +10,13 @@
 
 
 ### Windows Commands and Their Purpose
-- dir = Displays a sorted list and the current folder
-- cd = It used for change the directory inside of the console
-- Get-Location = With this command, obtain the working way for us. This command to do other things as: ( $ruta = Get-Location: to save the location currently of the variable // Get-Location: Displays the current way // pwd (used in Linux environments )
+- dir = Displays a sorted list and the current folder.
+- cd = It used for change the directory inside of the console.
+- Get-Location = With this command, obtain the working way for us.
+- A. This command to do other things as:
+- B. $ruta = Get-Location: to save the location currently of the variable.
+- C. Get-Location: Displays the current way.
+- D. pwd (used in Linux environments).
 
 
 
