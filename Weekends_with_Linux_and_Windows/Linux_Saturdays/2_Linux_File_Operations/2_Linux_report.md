@@ -54,11 +54,11 @@
   - (Press the 'Ctrl + X' key).
   - (Save, press the 'Y' key)
   - (Enter)
-  * 1  <img width="716" height="274" alt="image" src="https://github.com/user-attachments/assets/aa84acd6-4334-4dee-b966-0f72ee4f7567" />
-  * 1.1  <img width="531" height="164" alt="image" src="https://github.com/user-attachments/assets/778a8e51-f410-486b-bc17-a59a45c6da75" />  (Write something)
-  * 1.2  <img width="1002" height="392" alt="image" src="https://github.com/user-attachments/assets/e02888b4-98c4-4bc5-8310-76760c80f858" />  (Created)
+  * 1 <img width="716" height="274" alt="image" src="https://github.com/user-attachments/assets/aa84acd6-4334-4dee-b966-0f72ee4f7567" />
+  * 1.1 <img width="531" height="164" alt="image" src="https://github.com/user-attachments/assets/778a8e51-f410-486b-bc17-a59a45c6da75" />  (Write something)
+  * 1.2 <img width="1002" height="392" alt="image" src="https://github.com/user-attachments/assets/e02888b4-98c4-4bc5-8310-76760c80f858" />  (Created)
 * step 2: We will create a folder called 'backup'
-  * 2  <img width="1002" height="392" alt="image" src="https://github.com/user-attachments/assets/96b0f544-045d-437d-be24-0d7bf3cfe123" /> 
+  * 2 <img width="1002" height="392" alt="image" src="https://github.com/user-attachments/assets/96b0f544-045d-437d-be24-0d7bf3cfe123" /> 
 * step 3: Now, we will copy the file called 'saturday.txt' to folder called 'backup.' , with this command - cp Saturday.txt Sunday/   (This will creat a copy clear the file to folder)
   * 3  <img width="776" height="503" alt="image" src="https://github.com/user-attachments/assets/79e83390-01f6-4297-a157-ea83fdcc29ed" />
 
