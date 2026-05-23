@@ -35,11 +35,11 @@
   * In this case, we'll create 2 folders called 'css and html'
 * step 4 and step 4.1 : We can see that all folders is creat.
 
-  1 - <img width="596" height="262" alt="image" src="https://github.com/user-attachments/assets/ffcdd20c-7686-4b3a-af22-62fbc8cdb6db" />
-  2 - <img width="558" height="499" alt="image" src="https://github.com/user-attachments/assets/3fcc0488-dc66-4bdd-8f4d-1c9dc228db54" />
-  3 - <img width="439" height="257" alt="image" src="https://github.com/user-attachments/assets/47a785a9-f717-4516-bdad-8e559b6a6fbd" />
-  4 - <img width="398" height="446" alt="image" src="https://github.com/user-attachments/assets/a54db042-04a7-42c8-9bc3-a207e1e705b2" />
-  4.1 - <img width="237" height="143" alt="image" src="https://github.com/user-attachments/assets/391e70e8-86b8-4313-b17e-5e6889280ac0" />
+  * 1 - <img width="596" height="262" alt="image" src="https://github.com/user-attachments/assets/ffcdd20c-7686-4b3a-af22-62fbc8cdb6db" />
+  * 2 - <img width="558" height="499" alt="image" src="https://github.com/user-attachments/assets/3fcc0488-dc66-4bdd-8f4d-1c9dc228db54" />
+  * 3 - <img width="439" height="257" alt="image" src="https://github.com/user-attachments/assets/47a785a9-f717-4516-bdad-8e559b6a6fbd" />
+  * 4 - <img width="398" height="446" alt="image" src="https://github.com/user-attachments/assets/a54db042-04a7-42c8-9bc3-a207e1e705b2" />
+  * 4.1 - <img width="237" height="143" alt="image" src="https://github.com/user-attachments/assets/391e70e8-86b8-4313-b17e-5e6889280ac0" />
 
 
 
