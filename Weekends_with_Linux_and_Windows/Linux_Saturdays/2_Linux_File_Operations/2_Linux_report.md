@@ -42,12 +42,9 @@
 * step 4 and step 4.1 : We can see that all folders is creat.
   * 4  <img width="398" height="446" alt="image" src="https://github.com/user-attachments/assets/a54db042-04a7-42c8-9bc3-a207e1e705b2" />
   * 4.1  <img width="237" height="143" alt="image" src="https://github.com/user-attachments/assets/391e70e8-86b8-4313-b17e-5e6889280ac0" />
-
   
-  ### ______
+  __________________________________________________________________________________________________________________________________________________________
   
-  
-
 ### 2️⃣ We will copy multiple folders and files here step by step, with the command - cp
 #### This commmand is very important in the globe of It because, we can copy diferents files and folders at once and put on in different local, here an example.
 
