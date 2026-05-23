@@ -6,11 +6,11 @@
 * rm
 * touch
 
-## What I Learned📗
+# What I Learned📗
 
 
 
-## Linux Commands and Their Purpose✍
+# Linux Commands and Their Purpose✍
 
 * mkdir = We use it to create new folders.
 * cp = We use it to copy miltiple files and folders at once.
@@ -20,11 +20,11 @@
 * touch
 
 
-## Practices👨‍💻
+# Practices👨‍💻
 
 
 
-### 1️⃣ We will create a directory called "Proyect" using the command -  mkdir -p
+## 1️⃣ We will create a directory called "Proyect" using the command -  mkdir -p
 
 #### Example.
 * step 1: We will write this command - mkdir Proyect.
@@ -46,7 +46,7 @@
 
 
   
-### 2️⃣ We will copy multiple folders and files here step by step, with the command - cp
+## 2️⃣ We will copy multiple folders and files here step by step, with the command - cp
 #### This commmand is very important in the globe of It because, we can copy diferents files and folders at once and put on in different local, here an example.
 
 #### Example.
@@ -66,7 +66,7 @@
 
 
 
-### 3️⃣ We will move and rename to files and folders in this examples with command -  mv  . And, we will see different commands through of this practice.
+## 3️⃣ We will move and rename to files and folders in this examples with command -  mv  . And, we will see different commands through of this practice.
 #### Example.
 * step 1: We'll creat a files called 'inform.txt', using the command - nano
 * step 2: We'll creat a folder caller 'informs', using the command - mkdir -p
@@ -85,7 +85,7 @@
 
 
  
-### 4️⃣ We'll create file and folder for practice the commands - rm     -    and     rm -i
+## 4️⃣ We'll create file and folder for practice the commands - rm     -    and     rm -i
 #### Example.
 * step 1:
 
