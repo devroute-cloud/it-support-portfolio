@@ -20,11 +20,11 @@
 * touch
 
 
-# Practices👨‍💻
+## Practices👨‍💻
 
+#
 
-
-## 1️⃣ We will create a directory called "Proyect" using the command -  mkdir -p
+### 1️⃣ We will create a directory called "Proyect" using the command -  mkdir -p
 
 #### Example.
 * step 1: We will write this command - mkdir Proyect.
