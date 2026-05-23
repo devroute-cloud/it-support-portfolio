@@ -28,6 +28,7 @@
 
 #### Example.
 * step 1: We will write this command - mkdir Proyect.
+  * 1  <img width="596" height="262" alt="image" src="https://github.com/user-attachments/assets/ffcdd20c-7686-4b3a-af22-62fbc8cdb6db" />
 * step 2: We can see that the folders is create.
 * step 3: We will create more folders with this command -  mkdir -p
   * Is important put on the correct command for creat multiple folders at once.
