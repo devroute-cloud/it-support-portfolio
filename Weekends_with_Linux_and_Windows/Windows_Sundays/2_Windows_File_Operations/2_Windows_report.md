@@ -7,9 +7,10 @@
 * New-Item
 
 ## What I Learned📗
-- 
-
-
+- I've learned how the basic command it's a big help to users because we help to atuomation the things.
+- The differents commands are basic but important for an It Support Specialist in any environment.
+- Though simples exercises, we learned how to used different command and also we creat files, folders.
+- With these commands, we'll build more quickly and efficiently in a job environment.
 
 ## Linux Commands and Their Purpose✍
 
