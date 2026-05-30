@@ -19,4 +19,10 @@
 
 # Practices👨‍💻
 
-# 
+## 1️⃣ The find command: Here's a quick exercise, we create many files using the command: "nano" inside of User files for can to practice,
+<img width="1347" height="647" alt="158" src="https://github.com/user-attachments/assets/bd02f7a8-5e0e-4030-a144-b4840e802541" />
+
+
+## 2️⃣ The grep command:
+
+## 3️⃣ The locate command:
