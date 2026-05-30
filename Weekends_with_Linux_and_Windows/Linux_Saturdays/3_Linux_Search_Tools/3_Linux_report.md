@@ -7,9 +7,9 @@
 
 # What I Learned📗
 
-* find
-* grep
-* locate
+* The commands that we learned today, we to help it how to find quick, troubleshooting search issues in bash. Some commandos are slow, meanwhile others are fast.
+* Some commands extract such as: "grep", other command count such as: "grep -c", other to find any word such as "grep 'i".
+* Sometimes, wee'll can used these commands also for automation anything inside IT Support. 
 
 #Linux Commands and Their Purpose✍
 
@@ -33,5 +33,7 @@
 
 
 ## 3️⃣ The locate command:
-- 🟢 You will find the path to the SSHD configuration file.
-- 🟡 You will find the file that contains "desktop" , restricting the result to 5.
+- 🟢 You will find the path to the SSHD configuration file, using this command: "locate sshd_config"
+- 🟡 You will find the file that contains "desktop" , restricting the result to 5, using this command: "locate -n 5 desktop"
+<img width="481" height="429" alt="image" src="https://github.com/user-attachments/assets/692ed50d-20fa-4e2f-9ee8-464c31e19c93" />
+
