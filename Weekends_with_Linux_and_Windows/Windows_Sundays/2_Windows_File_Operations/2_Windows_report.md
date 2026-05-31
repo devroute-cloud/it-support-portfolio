@@ -28,11 +28,12 @@
  
 ##
 
-### 2️⃣ the copy command: WWe create one folder and two files with these commands: 
+### 2️⃣ the copy command: We create one folder and two files with these commands: 
 * Folder: "mkdir C:\Users\vboxuser\Desktop\TheFolderName"
 * File #1: New'Item "C:\Users\vboxuser\Desktop\TheNameFile" -ItemType "File" -Value "Type-Anything." -Force
-* File #2: New'Item "C:\Users\vboxuser\Desktop\TheNameFile" -ItemType "File" -Value "Type'Anything." -Force
-<img width="1023" height="545" alt="image" src="https://github.com/user-attachments/assets/4f6a3b3d-5874-4ec2-aae1-6cf58db886a6" />
+* Copy : copy "C:\Users\vboxuser\Desktop\TheNameFile" "C:\Users\vboxuser\Desktop\TheNameFolder\"
+<img width="504" height="326" alt="image" src="https://github.com/user-attachments/assets/72da2a9a-1f12-44cc-a390-26d8229ae472" />
+
 
 ##
 
