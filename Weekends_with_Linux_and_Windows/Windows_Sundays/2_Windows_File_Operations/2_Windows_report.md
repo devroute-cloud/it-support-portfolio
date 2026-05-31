@@ -23,11 +23,16 @@
 
 ## Practices👨‍💻
 
-### 1️⃣ 
-  
+### 1️⃣ The mkdir command: Now a short exercise here. PowerShell through VM. Using the command: "mkdir C:\Users\vboxuser\Desktop\TheFoderName"
+<img width="897" height="546" alt="image" src="https://github.com/user-attachments/assets/8bec5a9d-2a2e-4c45-9735-756f3bfdb400" />
+ 
 ##
 
-### 2️⃣ 
+### 2️⃣ the copy command: WWe create one folder and two files with these commands: 
+* Folder: "mkdir C:\Users\vboxuser\Desktop\TheFolderName"
+* File #1: New'Item "C:\Users\vboxuser\Desktop\TheNameFile" -ItemType "File" -Value "Type-Anything." -Force
+* File #2: New'Item "C:\Users\vboxuser\Desktop\TheNameFile" -ItemType "File" -Value "Type'Anything." -Force
+<img width="1023" height="545" alt="image" src="https://github.com/user-attachments/assets/4f6a3b3d-5874-4ec2-aae1-6cf58db886a6" />
 
 ##
 
