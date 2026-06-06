@@ -11,9 +11,9 @@
 
 # Linux Commands and Their Purpose✍
 
-* chmod = Define what kind of accion to do as (Read, Write or Execute)
-* chown = Define how owms the file or folder
-* ls -l = This command displays the current health and safety status of a file
+* chmod = Specify what type of action will be performed (read, write or execute).
+* chown = Define how owms the file or folder.
+* ls -l = This command displays the current health and safety status of a file, shous his X-rays: detailed permissions, numbers of links, account owner, team owner, bite size and late modified date.
 
 
 # Practices👨‍💻
