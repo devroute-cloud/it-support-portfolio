@@ -20,4 +20,6 @@
 
 1️⃣ chmod
 2️⃣ chown
-3️⃣ ls -l
+3️⃣ ls -l : In this exercise, we will provide a brief list with all the details, withing Linux.
+<img width="1049" height="369" alt="image" src="https://github.com/user-attachments/assets/3faa12e2-7a6e-4adf-b0c3-c2e87f68d1ad" />
+
